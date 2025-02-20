@@ -1,0 +1,4 @@
+id,amount,date,type,status,account_from,account_to
+1,500.0,2024-02-19,debit,completed,12345,67890
+2,1200.5,2024-02-18,credit,failed,67890,12345
+3,750.0,2024-02-17,debit,completed,11111,22222
