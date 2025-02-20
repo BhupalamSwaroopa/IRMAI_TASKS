@@ -1,0 +1,14 @@
+
+    Stock Trade Outlier Analysis Report
+    -----------------------------------
+    Total Trades Analyzed: 5
+    
+    Outlier Summary:
+    - Price Outliers: 1
+    - Volume Outliers: 1
+    
+    Recommendations:
+    - Investigate price anomalies for potential market manipulation.
+    - Review high-volume trades for unusual activity.
+    - Compare with expected trade patterns to detect deviations.
+    
